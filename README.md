@@ -4,7 +4,7 @@
   
   **Computer Engineer | AI Developer | Founder of M3Codes**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammed-bereket-526390307)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jmelbrkat@gmail.com)
   
 </div>
@@ -119,9 +119,15 @@ Simple desktop application to track finances and generate detailed reports.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuBereket&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuBereket&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuBereket&layout=compact&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuBereket&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuBereket&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuBereket&theme=react-dark&hide_border=true&area=true)
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=MuBereket&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
