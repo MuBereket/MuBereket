@@ -145,9 +145,6 @@ Simple desktop application to track finances and generate detailed reports.
 <!-- Contribution Snake Animation -->
 ![Snake animation](https://github.com/MuBereket/MuBereket/blob/output/github-contribution-grid-snake.svg)
 
-<!-- GitHub Metrics -->
-![Metrics](https://metrics.lecoq.io/MuBereket?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&topics=1&isocalendar=1&stars=1&followup=1&reactions=1&people=1&sponsorships=1&gists=1&projects=1&code=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&reactions.limit=200&reactions.days=0&reactions.display=absolute&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stars.limit=4&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FIstanbul)
-  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=fotvia&theme=radical&hide_border=true" alt="Fotvia Repo"/>
   
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=m3codes&theme=radical&hide_border=true" alt="M3Codes Repo"/>
