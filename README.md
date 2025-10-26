@@ -127,10 +127,27 @@ Simple desktop application to track finances and generate detailed reports.
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuBereket&theme=react-dark&hide_border=true&area=true)
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=MuBereket&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuBereket&theme=radical" alt="GitHub Profile Summary"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuBereket&theme=radical&hide_border=true" alt="WakaTime Stats"/>
   
 </div>
 
+### 💡 Quick Stats
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=MuBereket&color=green&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=fotvia&theme=radical&hide_border=true" alt="Fotvia Repo"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=m3codes&theme=radical&hide_border=true" alt="M3Codes Repo"/>
+  
+</div>
 ---
 
 ## 🤝 Organizations & Teams
