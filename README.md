@@ -125,31 +125,18 @@ Simple desktop application to track finances and generate detailed reports.
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuBereket&layout=compact&theme=radical&hide_border=true&langs_count=8)
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuBereket&theme=react-dark&hide_border=true&area=true)
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuBereket&theme=radical" alt="GitHub Profile Summary"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuBereket&theme=radical&hide_border=true" alt="WakaTime Stats"/>
-  
 </div>
 
-### 💡 Quick Stats
+---
+
+## 💡 Quick Stats
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=MuBereket&color=green&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MuBereket&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<div align="center">
-<!-- Contribution Snake Animation -->
-![Snake animation](https://github.com/MuBereket/MuBereket/blob/output/github-contribution-grid-snake.svg)
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=fotvia&theme=radical&hide_border=true" alt="Fotvia Repo"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuBereket&repo=m3codes&theme=radical&hide_border=true" alt="M3Codes Repo"/>
-  
-</div>
 ---
 
 ## 🤝 Organizations & Teams
