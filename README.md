@@ -119,9 +119,9 @@ Simple desktop application to track finances and generate detailed reports.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuBereket&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuBereket&layout=compact&theme=radical)
   
 </div>
 
@@ -151,7 +151,7 @@ Simple desktop application to track finances and generate detailed reports.
 I'm always open to collaborating on interesting AI projects or discussing new ideas!
 
 - 📧 Email: jmelbrkat@gmail.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/muhammed-bereket-526390307)
 - 📍 Location: Antakya, Hatay, Türkiye
 
 ---
