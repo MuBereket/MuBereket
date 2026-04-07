@@ -4,7 +4,7 @@
   
   **Computer Engineer | AI Developer | Founder of M3Codes**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammed-bereket-526390307)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-bereket-526390307)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jmelbrkat@gmail.com)
   
 </div>
@@ -63,55 +63,25 @@ I'm a **Computer Engineer** and **AI Developer** passionate about building intel
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### **Expertise**
-- 🧠 Deep Learning & Neural Networks
-- 👁️ Computer Vision & Image Processing
-- 📱 Mobile App Development (Flutter)
-- 🔗 REST API Development
-- 📊 Model Training & Deployment
-
 ---
 
 ## 🔥 Featured Projects
 
-### 🎨 [Fotvia - AI Image Processing App](link-to-repo)
+### 🎨 [Fotvia - AI Image Processing App](https://github.com/MuBereket)
 > Lead Developer | 2024-2025
 
-An intelligent image processing mobile application powered by **5 custom-trained AI models**:
-- ✨ Watermark Removal
-- 🔍 Super-Resolution Enhancement
-- 🎨 Image Colorization
-- 📝 OCR (Optical Character Recognition)
-- ⚡ General Image Enhancer
+An intelligent image processing mobile application powered by **5 custom-trained AI models**.
 
 **Tech Stack:** Python, TensorFlow, PyTorch, Flutter, OpenCV
 
 ---
 
-### 🧠 [Unutma Dostu - Alzheimer's Care App](link-to-repo)
+### 🧠 [Unutma Dostu - Alzheimer's Care App](https://github.com/MuBereket)
 > Personal Project | 2021-2025
 
-A mobile application designed to help Alzheimer's patients manage daily routines and reminders with an intuitive interface.
+A mobile application designed to help Alzheimer's patients manage daily routines.
 
 **Tech Stack:** Flutter, Dart
-
----
-
-### 🔐 [Password Encryption Tool](link-to-repo)
-> Personal Project | 2021-2025
-
-Secure password manager with custom encryption algorithms for enhanced data protection.
-
-**Tech Stack:** Python, Cryptography
-
----
-
-### 📊 [Accounting Program](link-to-repo)
-> Personal Project | 2021-2025
-
-Simple desktop application to track finances and generate detailed reports.
-
-**Tech Stack:** C#, Desktop Development
 
 ---
 
@@ -143,27 +113,14 @@ Simple desktop application to track finances and generate detailed reports.
 
 - 👥 **Founder** - M3Codes Team (2022 - Present)
 - ⚡ **Member** - Hisar Team (2023 - 2024)
-- 🔥 **Member** - Flame of Hope Team (2023 - 2024)
 - 🎓 **Member** - Arab Students Gathering at Fırat University (2022 - 2024)
-
----
-
-## 🎯 Interests
-
-- 🤖 AI Research & Development
-- 💻 Open Source Contribution
-- ♟️ Chess
-- ⚽ Football
-- 🏓 Ping Pong
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on interesting AI projects or discussing new ideas!
-
 - 📧 Email: jmelbrkat@gmail.com
-- 💼 LinkedIn: [Your Profile](www.linkedin.com/in/muhammed-bereket-526390307)
+- 💼 LinkedIn: [Muhammed Bereket](https://www.linkedin.com/in/muhammed-bereket-526390307)
 - 📍 Location: Antakya, Hatay, Türkiye
 
 ---
@@ -172,6 +129,6 @@ I'm always open to collaborating on interesting AI projects or discussing new id
   
   **"Building intelligent systems that make a difference"**
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MuBereket.MuBereket)
   
 </div>
